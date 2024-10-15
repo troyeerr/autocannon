@@ -106,7 +106,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -126,7 +125,6 @@ package-lock.json
 yarn.lock
 
 # editor files
-.vscode
 .idea
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
@@ -136,3 +134,7 @@ profile-*
 
 .devcontainer
 .history
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
