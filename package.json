@@ -70,7 +70,7 @@
     "pretty-bytes": "^5.4.1",
     "progress": "^2.0.3",
     "reinterval": "^1.1.0",
-    "retimer": "^3.0.0",
+    "retimer": "^4.0.0",
     "semver": "^7.3.2",
     "timestring": "^6.0.0"
   }
